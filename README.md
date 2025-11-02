@@ -97,10 +97,10 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Duskire/Temp
 [forks-shield]: https://img.shields.io/github/forks/Duskire/Template.svg?style=for-the-badge
 [forks-url]: https://github.com/Duskire/Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/Duskire/Template.svg?style=for-the-badge
-[stars-url]: https://github.com/Duskire/Templatee/stargazers
+[stars-url]: https://github.com/Duskire/Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Duskire/Template.svg?style=for-the-badge
 [issues-url]: https://github.com/Duskire/Template/issues
 [license-shield]: https://img.shields.io/github/license/Duskire/Template.svg?style=for-the-badge
-[license-url]: https://github.com/Duskire/Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/Duskire/Template/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/zak-bool/
